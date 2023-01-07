@@ -23,6 +23,9 @@ print("Avinash.COM SH003")
 print("Avinash.COM SH003")
 print("Avinash.COM SH003")
 print("Avinash.COM SH003")
+
+a+b = c
+print(c)
 print("Avinash.COM SH003")
 print("Avinash.COM SH003")
 print("Avinash.COM SH003")
